@@ -1,2 +1,2 @@
-# TugasTCC
-uplaod tugas
+# TugasPWMgaleri
+Tugas Buat Galeri Foto
